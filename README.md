@@ -16,7 +16,7 @@ Este projeto consiste em uma agenda de contatos simples desenvolvida em Java. El
 ## Como Rodar o Projeto
 
 1. Clone este repositório para sua máquina:
-   git clone https://github.com/VPRdev/agenda-contatos.git
+   git clone https://github.com/VPRdev/agenda_contatos.git
 2. Navegue até o diretório do projeto:
     cd agenda-contatos
 3. Compile o código
