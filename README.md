@@ -22,6 +22,6 @@ Este projeto consiste em uma agenda de contatos simples desenvolvida em Java. El
 3. Compile o código
 4. Execute o programa.
 
-##Telas do Projeto:
+## Telas do Projeto:
 ![Listar_Contatos](https://github.com/user-attachments/assets/34afd0a2-059e-4ca6-b187-48ff1bbedbf7)
 ![Adicionar_contatos](https://github.com/user-attachments/assets/eb46cb4c-ddd5-42a8-8054-fee3432cda06)
